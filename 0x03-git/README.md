@@ -1,2 +1,2 @@
 Repo-session
-My first commit on GitHub
+My first commit on GitHub.com
